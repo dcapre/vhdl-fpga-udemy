@@ -1,0 +1,6 @@
+# Ignore ModelSim files
+lesson_1/modelsim.ini
+lesson_1/vsim.wlf
+lesson_1/work/*
+# Ignore Vivado files
+lesson_1/shift_reg/*
