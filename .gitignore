@@ -6,3 +6,4 @@ lesson_1/work/*
 # Ignore Vivado files
 lesson_1/shift_reg/*
 lesson_2/buttons_leds/*
+lesson_3/blinky_led/*
