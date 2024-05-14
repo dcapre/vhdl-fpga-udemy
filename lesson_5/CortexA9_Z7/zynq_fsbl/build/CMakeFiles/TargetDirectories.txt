@@ -1,0 +1,3 @@
+C:/Users/dcapr/vhdl-fpga-udemy/lesson_5/CortexA9_Z7/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/Users/dcapr/vhdl-fpga-udemy/lesson_5/CortexA9_Z7/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/Users/dcapr/vhdl-fpga-udemy/lesson_5/CortexA9_Z7/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
