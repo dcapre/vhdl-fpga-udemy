@@ -8,3 +8,6 @@ lesson_1/shift_reg/*
 lesson_2/buttons_leds/*
 lesson_3/blinky_led/*
 lesson_4/led_brightness/*
+lesson_5/.gitignore
+lesson_6/*.ignore
+lesson_6/.gitignore

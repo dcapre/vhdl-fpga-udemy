@@ -1,0 +1,3 @@
+domain_path: C:\Users\dcapr\vhdl-fpga-udemy\lesson_6\Z7_CortexA9_AXI_GPIO\export\Z7_CortexA9_AXI_GPIO\sw\standalone_ps7_cortexa9_0
+app_src_dir: D:\Xilinx\Vitis\2023.2\data\embeddedsw\lib\sw_apps\empty_application
+template: empty_application
